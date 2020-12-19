@@ -1,7 +1,5 @@
----
-title: "Customer Revenue Prediction"
-output: html_notebook
----
+## Customer Revenue Prediction
+
 
 ### Introduction
 
