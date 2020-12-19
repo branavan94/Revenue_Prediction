@@ -8,9 +8,10 @@ Similar to most other kaggle competitions, we are given two datasets
 Data can be found with this link : <a href="https://www.kaggle.com/c/ga-customer-revenue-prediction/data" target="_blank">Click Here</a></br>
 * train.csv
 * test.csv </br>
+</br>
 Each row in the dataset is one visit to the store. We are predicting the natural log of the sum of all transactions per user.
-
-The data fields in the given files are</br>
+</br>
+The data fields in the given files are:
 
 * fullVisitorId- A unique identifier for each user of the Google Merchandise Store.
 * channelGrouping - The channel via which the user came to the Store.
